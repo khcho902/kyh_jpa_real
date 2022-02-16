@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:h2:tcp://localhost/~/kycho_study/kimyounghan/jpa_real_1/jpashop
+    url: jdbc:h2:tcp://localhost/~/kycho_study/kimyounghan/jpa_real/jpashop
 
     username: sa
     password:
